@@ -16,8 +16,8 @@ A fully functional chess game where you play against an AI opponent powered by m
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd chess-ml-game
+   git clone https://github.com/Ahmadjamil888/CHESS_GAME_AI.git
+   cd CHESS_GAME_AI
    ```
 
 2. **Install dependencies**:
